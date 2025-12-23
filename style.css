@@ -4,7 +4,7 @@ body {
 
 .jumbotron {
     padding: 6 rem;
-    background-color: rgb(122, 122, 213);
+    background-color: hsl(240, 53%, 60%);
 }
 
 #projects {
