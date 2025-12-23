@@ -4,11 +4,11 @@ body {
 
 .jumbotron {
     padding: 6 rem;
-    background-color: #13166b;
+    background-color: rgb(122, 122, 213);
 }
 
 #projects {
-    background-color: #e80d0d;
+    background-color: hsl(226, 89%, 48%);
 }
 
 section {
